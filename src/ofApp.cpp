@@ -1,6 +1,7 @@
 #include "ofApp.h"
 
 //--------------------------------------------------------------
+//--- Version 1 --- 
 void ofApp::setup(){
 
 	ofBackground(34, 34, 34);
